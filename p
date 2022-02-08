@@ -5,6 +5,7 @@
 	<title>병원 인트로</title>
 	<meta name="format-detection" content="telephone=no">
 	<meta name="description" content="대한민국 의료를 세계로" />
+	<meta name = "첫번째 커밋 수정내용이에요">
 	<meta name="keywords" content="" />
 	<!--[if lt IE 9]>
 		<script src="/asset/js/html5shiv.min.js"></script>
